@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://egheweiph.egillrunar.com/sitemap.xml
